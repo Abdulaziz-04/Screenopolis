@@ -1,0 +1,11 @@
+{
+    "name": "Screenopolis",
+    "version": "1.0.0",
+    "author": "Abdulaziz Suria",
+    "description": "An extension to add movie wallpapers to add on browser homepage",
+    "manifest_version": 2,
+    "chrome_url_overrides": {
+        "newtab": "newimg.html"
+    },
+    "permissions": ["https://source.unsplash.com/"]
+}

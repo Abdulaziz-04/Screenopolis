@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#google-logo {
+    padding-top: 150;
+}
+
+#search {
+    font-weight: 600;
+    margin: 30 0;
+    padding: 10;
+}
+
+.logos {
+    padding: 10;
+    height: 100;
+}
